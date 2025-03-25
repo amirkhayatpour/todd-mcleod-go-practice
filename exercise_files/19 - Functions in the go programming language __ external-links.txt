@@ -1,0 +1,63 @@
+
+002 Golang-Playground-exercise-code
+https://go.dev/play/p/VXAaDKtgVAq
+
+003 Golang-Playground-exercise-code
+https://go.dev/play/p/N_VWQgL0u0o
+
+004 Golang-Playground-exercise-code
+https://go.dev/play/p/10tDA0_aswX
+
+005 Golang-Playground-exercise-code
+https://go.dev/play/p/x_abhRmKDdx
+
+006 Golang-Playground-exercise-code
+https://go.dev/play/p/1bCH57BFVpD
+
+007 Golang-Playground-exercise-code
+https://go.dev/play/p/_wYpgHEzkvU
+
+008 Golang-Playground-exercise-code
+https://go.dev/play/p/L4TkCiyYn1e
+
+009 Golang-Playground-exercise-code
+https://go.dev/play/p/oDvKjKxC4A6
+
+010 You-can-look-at-this-code-but-this-code-will-not-run-on-the-playground-b-c-it-has-file-operations
+https://go.dev/play/p/ysvi-AqkEDA
+
+011 Golang-Playground-exercise-code
+https://go.dev/play/p/PqWPMd5X2Om
+
+012 You-can-look-at-this-code-but-this-code-will-not-run-on-the-playground-b-c-it-has-file-operations
+https://go.dev/play/p/a5-cb_ByMdY
+
+013 Golang-Playground-exercise-code
+https://go.dev/play/p/p0-fXb-Ugvt
+
+013 Anonymous-Func-with-a-return
+https://go.dev/play/p/_v__udo_i3v
+
+014 Golang-Playground-exercise-code
+https://go.dev/play/p/rd1eQMjlvYD
+
+015 Golang-Playground-exercise-code
+https://go.dev/play/p/mfjfy63Pzii
+
+016 Golang-Playground-exercise-code-1
+https://go.dev/play/p/7UJCNM0UTWP
+
+016 Golang-Playground-exercise-code-2
+https://go.dev/play/p/cm1CRE4o59z
+
+017 Golang-Playground-exercise-code
+https://go.dev/play/p/207g7uGdgUF
+
+018 Golang-Playground-exercise-code
+https://go.dev/play/p/S4INA-7i9_v
+
+019 Golang-Playground-exercise-code
+https://go.dev/play/p/ORGm7AQ3ljU
+
+020 Golang-Playground-exercise-code
+https://go.dev/play/p/scIeQnXpF8-

@@ -1,0 +1,45 @@
+
+001 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/C5k8w07Fh7Y
+
+002 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/uvggBjVF47O
+
+003 Numeral-system
+https://en.wikipedia.org/wiki/Numeral_system
+
+004 Conversions-Golang-Specification
+https://go.dev/ref/spec#Conversions
+
+004 Expressions-Golang-Specification
+https://go.dev/ref/spec#Expressions
+
+004 Constants-Go-Blog-Rob-Pike
+https://go.dev/blog/constants
+
+004 Constants-Effective-Go
+https://go.dev/doc/effective_go#constants
+
+004 Constants-Golang-Specification
+https://go.dev/ref/spec#Constants
+
+004 Declarations-Scope-Golang-Specification
+https://go.dev/ref/spec#Declarations_and_scope
+
+004 If-Statements-Golang-Specification-expression-may-be-preceded-by-a-simple-statement-which-executes-before-the-expression-is-evaluated.
+https://go.dev/ref/spec#If_statements
+
+004 Unused-imports-variables-effective-go
+https://go.dev/doc/effective_go#blank_unused
+
+004 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/zNKmoCbPvBm
+
+005 Primitive-Data-Types-Wikipedia
+https://en.wikipedia.org/wiki/Primitive_data_type
+
+005 pkg-builtin-standard-library
+https://pkg.go.dev/builtin
+
+005 Constants-Go-Blog-Rob-Pike
+https://go.dev/blog/constants

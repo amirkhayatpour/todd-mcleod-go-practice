@@ -1,0 +1,18 @@
+
+001 Snowy-Evening-Text-File-also-can-be-found-here-
+https://drive.google.com/file/d/1uAdldZKg7wXHqtMxo3-_sgimwDmhknxI/view?usp=sharing
+
+004 read-about-the-init-function-in-effective-go
+https://go.dev/doc/effective_go#init
+
+018 Additional-code-1
+https://go.dev/play/p/DpZ_FLfn5s
+
+018 Additional-code-2
+https://go.dev/play/p/IDnrJpE7vT
+
+018 Additional-code-3
+https://go.dev/play/p/YpPgkWGqKY
+
+018 Additional-code-4
+https://go.dev/play/p/Dj-yYGkAB4F

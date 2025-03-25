@@ -1,0 +1,69 @@
+
+001 The-Gopher-Images-1
+https://github.com/ashleymcnamara/gophers
+
+001 The-Gopher-Images-2
+https://github.com/egonelbre/gophers
+
+002 Golang-Forum-for-Questions-Answers
+https://forum.golangbridge.org/
+
+002 Golang-Documentation
+https://go.dev/doc/
+
+002 Golang-Specification
+https://go.dev/ref/spec
+
+002 Effective-Go
+https://go.dev/doc/effective_go
+
+002 Golang-User-Manual
+https://go.dev/doc/
+
+002 Standard-Library
+https://pkg.go.dev/std
+
+002 Golang-Blog
+https://go.dev/blog/
+
+002 golang-modules-resource-1-Using-Go-Modules
+https://go.dev/blog/using-go-modules
+
+002 golang-modules-resource-2-Go-Modules-Reference
+https://go.dev/ref/mod
+
+002 golang-modules-resource-3-How-to-Write-Go-Code
+https://go.dev/doc/code
+
+002 golang-modules-resource-4-Tutorial-Create-a-Go-module
+https://go.dev/doc/tutorial/create-module
+
+002 golang-modules-resource-5-digital-ocean-tutorial-go-modules-GREAT-
+https://www.digitalocean.com/community/tutorials/how-to-use-go-modules
+
+002 golang-modules-resource-6-practical-go-lessons-chapter-17-go-modules
+https://www.practical-go-lessons.com/chap-17-go-modules
+
+002 Go-Proverbs
+https://go-proverbs.github.io/
+
+002 GITHUB-CODE-REPOSITORY-ALL-OF-THE-CODE-USED-IN-THE-COURSE
+https://github.com/GoesToEleven/learn-to-code-go-version-03
+
+002 a-tour-of-go
+https://go.dev/tour/welcome/1
+
+003 Managing-Dependencies
+https://go.dev/doc/modules/managing-dependencies
+
+003 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/xYh5bKHYdh5
+
+004 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/eDwC_edZ3Ci
+
+006 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/PnzhfYhGWCC
+
+007 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/wge8tWLEQNM

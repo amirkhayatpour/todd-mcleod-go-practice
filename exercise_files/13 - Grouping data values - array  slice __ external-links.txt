@@ -1,0 +1,75 @@
+
+002 Golang-Specification-array-types
+https://golang.org/ref/spec#Array_types
+
+002 Golang-Specification-slice-types
+https://golang.org/ref/spec#Slice_types
+
+002 Golang-Specification-map-types
+https://golang.org/ref/spec#Map_types
+
+002 Golang-Specification-struct-types
+https://golang.org/ref/spec#Struct_types
+
+003 Golang-Playground-exercise-code
+https://go.dev/play/p/_tZD1mCUjej
+
+003 Golang-Playground-exercise-code-2
+https://play.golang.org/p/f-7aufl2DO
+
+004 Golang-Playground-exercise-code
+https://go.dev/play/p/OEHPUGDoWD_t
+
+005 Golang-Playground-exercise-code
+https://go.dev/play/p/5woDCfR2LLi
+
+005 Golang-Playground-exercise-code-2
+https://play.golang.org/p/XtUEPJFgqD
+
+006 Golang-Playground-exercise-code
+https://go.dev/play/p/W8sWn7fsUXh
+
+007 Golang-Playground-exercise-code
+https://go.dev/play/p/YQ89CoNq04G
+
+007 Golang-Playground-exercise-code-2
+https://play.golang.org/p/O7cCALNFsH
+
+008 Golang-Playground-exercise-code
+https://go.dev/play/p/1PgUc0KvaTX
+
+008 Golang-Playground-exercise-code-2
+https://play.golang.org/p/oQnjP5Ka3F
+
+009 Golang-Playground-exercise-code
+https://go.dev/play/p/pYutmmXO8Q9
+
+009 Golang-Playground-exercise-code-2
+https://play.golang.org/p/AXGTEEn92M
+
+010 Golang-Playground-exercise-code
+https://go.dev/play/p/qm_RV-xnoeA
+
+010 Golang-Playground-exercise-code-2
+https://play.golang.org/p/VTZ2Bof6bN
+
+011 Golang-Playground-exercise-code
+https://go.dev/play/p/CwfCyWF3Tei
+
+012 Golang-Playground-exercise-code
+https://go.dev/play/p/BjvYAIcUjCK
+
+012 Golang-Playground-exercise-code-2
+https://play.golang.org/p/S4cyB89Zpm
+
+013 Golang-Playground-exercise-code
+https://go.dev/play/p/YXoRT0wqz9F
+
+013 The-Source-Code-for-The-Go-Programming-Language-slice.go
+https://cs.opensource.google/go/go/+/refs/tags/go1.20.4:src/runtime/slice.go
+
+014 Golang-Playground-exercise-code
+https://go.dev/play/p/JgnnzAYB4Y8
+
+015 Golang-Playground-exercise-code
+https://go.dev/play/p/ZBz2jFnL8oc

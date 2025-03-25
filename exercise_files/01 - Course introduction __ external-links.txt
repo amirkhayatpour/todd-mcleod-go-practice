@@ -1,0 +1,69 @@
+
+001 Grit-the-power-of-passion-and-perseverance-Angela-Lee-Duckworth
+https://www.youtube.com/watch?v=H14bBuluwB8
+
+001 Imposter-Syndrome-Info
+https://www.google.com/search?q=imposter+syndrome+statistic+programmers
+
+002 Golang-Forum-for-Questions-Answers
+https://forum.golangbridge.org/
+
+002 golang-documentation
+https://go.dev/doc/
+
+002 golang-specification
+https://go.dev/ref/spec
+
+002 effective-go
+https://go.dev/doc/effective_go
+
+002 golang-user-manual
+https://go.dev/doc/
+
+002 standard-library
+https://pkg.go.dev/std
+
+002 golang-blog
+https://go.dev/blog/
+
+002 golang-modules-resource-1
+https://go.dev/blog/using-go-modules
+
+002 golang-modules-resource-2
+https://go.dev/ref/mod
+
+002 golang-modules-resource-3-how-to-write-go-code
+https://go.dev/doc/code
+
+002 golang-modules-resource-4-Tutorial-Create-a-Go-module
+https://go.dev/doc/tutorial/create-module
+
+002 golang-modules-resource-5-digital-ocean-tutorial-go-modules-GREAT-
+https://www.digitalocean.com/community/tutorials/how-to-use-go-modules
+
+002 golang-modules-resource-6-practical-go-lessons-chapter-17-go-modules
+https://www.practical-go-lessons.com/chap-17-go-modules
+
+002 Go-Proverbs
+https://go-proverbs.github.io/
+
+002 Go-By-Example-great-to-look-up-examples-of-how-to-use-the-go-programming-language-
+https://gobyexample.com/
+
+002 Managing-Dependencies
+https://go.dev/doc/modules/managing-dependencies#naming_module
+
+002 The-Gopher-Images-1
+https://github.com/ashleymcnamara/gophers
+
+002 The-Gopher-Images-2
+https://github.com/egonelbre/gophers
+
+002 GITHUB-CODE-REPOSITORY-ALL-OF-THE-CODE-USED-IN-THE-COURSE
+https://github.com/GoesToEleven/learn-to-code-go-version-03
+
+002 a-tour-of-go
+https://go.dev/tour/welcome/1
+
+004 Impossible-Alone-How-Udemy-makes-learning-accessible-with-the-help-of-Atlassians-cloud-platform
+https://www.youtube.com/watch?v=zN9JdPif56Y

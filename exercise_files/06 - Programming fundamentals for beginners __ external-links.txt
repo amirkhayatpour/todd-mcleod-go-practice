@@ -1,0 +1,15 @@
+
+003 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/0sU5YFvI1bR
+
+003 Golang-Specification-Declaration-Scope
+https://go.dev/ref/spec#Declarations_and_scope
+
+005 Git-Scm-download-and-install-git-and-git-bash-from-here-if-youre-on-Windows
+https://git-scm.com/
+
+006 More-Terminal-Bash-Commands
+https://ss64.com/bash/
+
+007 More-Terminal-Bash-Shell-Commands
+https://ss64.com/bash/

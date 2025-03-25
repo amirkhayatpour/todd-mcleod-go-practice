@@ -1,0 +1,24 @@
+
+001 Official-Golang-Generics-Tutorial
+https://go.dev/doc/tutorial/generics
+
+001 Golang-Blog-Why-Generics
+https://go.dev/blog/why-generics
+
+001 Golang-Blog-Generics-Intro
+https://go.dev/blog/intro-generics
+
+001 Golang-Playground-exercise-code
+https://go.dev/play/p/RLNf7fy5_H2
+
+002 Golang-Playground-exercise-code
+https://go.dev/play/p/19I6soqjFco
+
+003 Golang-Playground-exercise-code
+https://go.dev/play/p/xyreDkEG3Bq
+
+004 Golang-Playground-exercise-code
+https://go.dev/play/p/rYYo_MCwUcN
+
+005 Official-Go-Generics-Tutorial
+https://go.dev/doc/tutorial/generics

@@ -1,0 +1,6 @@
+
+001 Golang-Playground
+https://go.dev/play/
+
+002 THIS-LECTURES-CODE-in-GOLANG-PLAYGROUND
+https://go.dev/play/p/niidn0N9RHL

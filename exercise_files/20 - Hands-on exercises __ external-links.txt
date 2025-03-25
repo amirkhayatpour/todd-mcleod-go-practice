@@ -1,0 +1,54 @@
+
+001 Golang-Playground-exercise-code
+https://go.dev/play/p/6W8-8CaJjVb
+
+002 Golang-Playground-exercise-code
+https://go.dev/play/p/Jeh_wripOEe
+
+003 Golang-Playground-exercise-code
+https://go.dev/play/p/AVSkvMuaz0H
+
+004 Golang-Playground-exercise-code
+https://go.dev/play/p/tbvSX8qy6TT
+
+005 Golang-Playground-exercise-code
+https://go.dev/play/p/KqOV32q1aC0
+
+006 Golang-Playground-exercise-code
+https://go.dev/play/p/8BFxl2GXgcw
+
+007 Golang-Playground-exercise-code
+https://go.dev/play/p/GhR7rzvxU3_p
+
+008 Golang-Playground-exercise-code
+https://go.dev/play/p/ysOWyO9N3Kj
+
+009 Golang-Playground-exercise-code
+https://go.dev/play/p/jxFzGsHyHfQ
+
+010 Golang-Playground-exercise-code
+https://go.dev/play/p/jxFzGsHyHfQ
+
+011 Golang-Playground-exercise-code
+https://go.dev/play/p/mpDK30B1n5l
+
+011 Github-exercise-code
+https://github.com/GoesToEleven/learn-to-code-go-version-03/tree/main/160-hands-on-67-interface-mock-db-test
+
+012 Golang-Playground-exercise-code
+https://go.dev/play/p/Ly0L6YEZ-zW
+
+013 Golang-Playground-exercise-code
+https://go.dev/play/p/fbrC0sX0uAa
+
+014 Golang-Playground-exercise-code
+https://go.dev/play/p/eqpKJ5jCv3g
+
+015 Golang-Playground-exercise-code
+https://go.dev/play/p/o7klLEt0rEE
+
+016 Golang-Playground-exercise-code
+https://go.dev/play/p/tEjP1-6S2LW
+
+017 Golang-Playground-exercise-code
+https://go.dev/play/p/55s4mfHLMdz

@@ -1,0 +1,9 @@
+
+001 Golang-Playground-exercise-code
+https://go.dev/play/p/3NnHshCydm5
+
+002 Golang-Playground-exercise-code
+https://go.dev/play/p/w8WBKiKhGX4
+
+003 Golang-Playground-exercise-code
+https://go.dev/play/p/o-csXhWFnFH
