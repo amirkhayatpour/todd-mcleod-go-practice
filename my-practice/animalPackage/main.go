@@ -1,7 +1,15 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"github.com/amirkhayatpour/puppy"
+)
 
 func main() {
-	fmt.Println("Let's Go! 😈")
+
+	sound1 := puppy.Bark()
+	sound2 := puppy.Barks()
+
+	fmt.Println(sound1)
+	fmt.Println(sound2)
 }
