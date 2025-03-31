@@ -1,2 +1,4 @@
-github.com/amirkhayatpour/puppy v0.0.0-20250326122000-723dcf495736 h1:mnu68pXSrv10RTGAGhBLb2TbjIEF0FY2Qf010RGSbNE=
-github.com/amirkhayatpour/puppy v0.0.0-20250326122000-723dcf495736/go.mod h1:LuwO9RtVFzovNz643E9qJIuQYZobBlj+BHxoktARhTA=
+github.com/amirkhayatpour/dog v0.0.0-20250331085955-e63c1744ddd0 h1:7hrY4UrqigBj5vkP5pXEecUIPkz4m6PNY+7ablLTlAU=
+github.com/amirkhayatpour/dog v0.0.0-20250331085955-e63c1744ddd0/go.mod h1:+uxD5duW5ukG8HXUFvIU1BHy5s8Xabgqsmi3SDivCaU=
+github.com/amirkhayatpour/puppy v0.0.0-20250331090542-06a362198198 h1:17PJm+hJZgxnYUpnFj4MlKGQqgjY8D+4cEgH+da33wk=
+github.com/amirkhayatpour/puppy v0.0.0-20250331090542-06a362198198/go.mod h1:pdFdlSopPkHHrLat03S0ID9WEoCSv1u5ZagMv2QHnRs=
