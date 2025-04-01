@@ -17,4 +17,8 @@ func main() {
 	fmt.Println(sound2)
 	fmt.Println(sound3)
 	fmt.Println(sound4)
+
+	puppy.VersionOne()
+	puppy.VersionOneTwo()
+	puppy.VersionOneThree()
 }
