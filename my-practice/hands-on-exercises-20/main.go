@@ -5,6 +5,10 @@ import (
 	"math/rand"
 )
 
+func init() {
+	fmt.Println("This is where initialization for my program occurs")
+}
+
 func main() {
 
 	x := rand.Intn(500)
