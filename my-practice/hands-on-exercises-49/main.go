@@ -10,6 +10,8 @@ func main() {
 		"do_dr":            {"cats", "ice cream", "sunsets"},
 	}
 
+	interests["fleming_ian"] = []string{"steaks", "cigars", "espionage"}
+
 	for key, value := range interests {
 		fmt.Printf("%v\n", key)
 		for _, interest := range value {
