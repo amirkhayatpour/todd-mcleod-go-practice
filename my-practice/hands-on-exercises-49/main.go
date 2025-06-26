@@ -20,4 +20,15 @@ func main() {
 		fmt.Printf("\n")
 	}
 
+	delete(interests, "do_dr")
+
+	fmt.Println("------ AFTER DELETE do_dr KEY ------")
+	for key, value := range interests {
+		fmt.Printf("%v\n", key)
+		for _, interest := range value {
+			fmt.Printf("%v\t", interest)
+		}
+		fmt.Printf("\n")
+	}
+
 }
