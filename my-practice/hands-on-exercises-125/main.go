@@ -41,4 +41,15 @@ func main() {
 
 	fmt.Println(e1)
 
+	as := struct {
+		model   string
+		price   int
+		company string
+	}{
+		model:   "iPhone 16e",
+		price:   599,
+		company: "Apple",
+	}
+
+	fmt.Printf("\n%v", as)
 }
