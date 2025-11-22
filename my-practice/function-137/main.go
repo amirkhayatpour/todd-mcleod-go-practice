@@ -1,16 +1,18 @@
 package main
 
+// defer
+
 import "fmt"
 
 func main() {
-	defer thisIsTheEnd()
-	skyFallMovieStarts()
+	defer foo()
+	bar()
 }
 
-func thisIsTheEnd() {
-	fmt.Println("Hold your breath and count to 10")
+func foo() {
+	fmt.Println("Fooooo")
 }
 
-func skyFallMovieStarts() {
-	fmt.Println("007 is falling in the river")
+func bar() {
+	fmt.Println("Baaaar")
 }
