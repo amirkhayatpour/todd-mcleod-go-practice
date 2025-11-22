@@ -3,40 +3,30 @@ package main
 import "fmt"
 
 func main() {
-	sayHallo()
-	sayMyName("Heisenberg")
-	product := whoMakesWhat("Heisenberg")
-	fmt.Printf("who makes what: %v", product)
-	fullName, age := ageFinder("Amir", "Khayatpour")
-	fmt.Printf("person: %v found age: %v", fullName, age)
+	justPrintSomething()
+	printWhatIWant("this is just for no return and one argument function")
+	myText := returnWhatIGiveYou("here is my return text")
+	fmt.Println(myText)
+	text, age := multiReturnFunction("here is my multi function text", 22)
+	fmt.Printf("%v -------- %v", text, age)
 }
 
-func sayHallo() {
-	fmt.Println("Hallo")
+func justPrintSomething() {
+	fmt.Println("just no return. no param")
 }
 
-func sayMyName(name string) {
-	fmt.Printf("%v, You god damn right! >:)", name)
+func printWhatIWant(text string) {
+	fmt.Println(text)
 }
 
-func whoMakesWhat(person string) string {
-	switch person {
-	case "Heisenberg":
-		return "crystal"
-	default:
-		return "I dont know!"
-	}
+func returnWhatIGiveYou(text string) string {
+	return fmt.Sprint(text, "this is returned text\n")
 }
 
-func ageFinder(name string, last string) (string, int) {
-	fullName := fmt.Sprintf("%s %s", name, last)
-	var age int
-	switch fullName {
-	case "Amir Khayatpour":
-		age = 30
-	default:
-		age = 0
-	}
-
-	return fullName, age
+func multiReturnFunction(text string, age int) (string, int) {
+	return fmt.Sprint(text, "from multi return function"), age
 }
+
+/*
+all available function signature
+*/
