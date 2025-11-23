@@ -1,44 +1,42 @@
 package main
 
+// remember interfaces (polymorphism)
+
 import "fmt"
 
-type benz struct {
-	model string
-	myFav bool
+type human interface {
+	study()
+	exercise()
 }
 
-type toyota struct {
-	model string
-	myFav bool
+type student struct {
+	firstName string
 }
 
-type car interface {
-	drive()
+type clever struct {
+	student
+	age int
 }
 
-func (auto benz) drive() {
-	fmt.Println(auto.model, " is moving ...... ! Am i like it ? ", auto.myFav)
+func (c clever) study() {
+	fmt.Println(c.firstName, "is reading a book")
 }
 
-func (auto toyota) drive() {
-	fmt.Println(auto.model, " is moving ...... ! Am i like it ? ", auto.myFav)
+func (c clever) exercise() {
+	fmt.Println(c.firstName, "is playing ping pong with ", c.age, "years old!")
 }
 
-func letGo(car car) {
-	car.drive()
+func whatAGoodHumanDo(h human) {
+	h.study()
+	h.exercise()
 }
 
 func main() {
-	gClass := benz{
-		model: "G-class",
-		myFav: true,
+	p1 := clever{
+		student: student{
+			firstName: "Amir",
+		},
+		age: 31,
 	}
-
-	landCruiser := toyota{
-		model: "Land Cruiser",
-		myFav: false,
-	}
-
-	letGo(gClass)
-	letGo(landCruiser)
+	whatAGoodHumanDo(p1)
 }
