@@ -1,22 +1,24 @@
 package main
 
+// methods
+
 import "fmt"
 
 type person struct {
-	name string
+	firstName string
 }
 
 func (p person) speak() {
-	fmt.Println("I am ", p.name)
+	fmt.Println("My name is: ", p.firstName)
 }
 
 func main() {
 	p1 := person{
-		name: "Amir",
+		firstName: "amir",
 	}
 
 	p2 := person{
-		name: "Nima",
+		firstName: "koala",
 	}
 
 	p1.speak()
