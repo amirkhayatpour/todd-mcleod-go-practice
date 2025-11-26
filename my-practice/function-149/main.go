@@ -1,16 +1,10 @@
 package main
 
-import "fmt"
-
 // closure
 
 func main() {
 
-	f := incrementor() // func() int
-	fmt.Println(f())
-	fmt.Println(f())
-	fmt.Println(f())
-	fmt.Println(f())
+	incrementor()
 }
 
 func incrementor() func() int {
